@@ -1,0 +1,10 @@
+{
+    "name": "QuickDirectory",
+    "tree": {
+        "$path": "QuickDirectory",
+        "Dependencies": {
+            "$className": "Folder",
+            "$path": "Packages"
+        }
+    }
+}

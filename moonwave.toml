@@ -1,0 +1,10 @@
+title = "QuickDirectory"
+gitSourceBranch = "main" 
+
+[docusaurus]
+onBrokenLinks = "throw"
+onBrokenMarkdownLinks = "warn"
+
+[footer]
+style = "dark"
+copyright = "Copyright © 2022-2022 ExponentialCodexStudios. All Rights Reserved. Built with Moonwave and Docusarus"

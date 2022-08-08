@@ -1,0 +1,10 @@
+# Project place file
+/QuickDirectory.rbxlx
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+# Packages
+/Packages/_Index
+#Moonwave
+/build
+# Other
