@@ -1,3 +1,5 @@
+-- ExponentialCodexStudios. 2022-2022. Creative Commons. CC BY-ND 4.0. https://creativecommons.org/licenses/by-nd/4.0/.
+
 --- @class QuickDirectory
 --- This class is designed to contain directories to Modules/Instances objects that you can easily access with the name of the Module/Instance object.
 
