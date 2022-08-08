@@ -47,9 +47,9 @@ end
     This method returns a Promise which will resolve to the Module/Instance if it's found but will reject after 30s.
     @within QuickDirectory
     @param dirName string -- The directory name to find the Module/Instance object.
-    @return Promise<T> -- Resolves to the Module/Instance object
+    @return Promise -- Resolves to the Module/Instance object
 ]=]
-function QuickDirectory.PromiseDirectory<T>(dirName: string) : T
+function QuickDirectory.PromiseDirectory(dirName: string) : any
     if QuickDirectory.DirBin[dirName] then
         return Promise.resolve(QuickDirectory.DirBin[dirName]);
     end
