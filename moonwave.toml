@@ -11,7 +11,7 @@ onBrokenMarkdownLinks = "warn"
 organizationName = "ExCodexStudios"
 projectName = "RBX-QuickDirectory"
 url = "https://excodexstudios.github.io"
-baseUrl = "/RBX-QuickDirectory"
+baseUrl = "/RBX-QuickDirectory/"
 
 [footer]
 style = "dark"
