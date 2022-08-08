@@ -4,6 +4,11 @@ gitRepoUrl = "https://github.com/ExCodexStudios/RBX-QuickDirectory"
 gitSourceBranch = "main"
 changelog = true
 
+classOrder = [
+    "QuickDirectory",
+    "DirConfig"
+]
+
 [docusaurus]
 onBrokenLinks = "throw"
 onBrokenMarkdownLinks = "warn"
