@@ -1,9 +1,17 @@
 title = "QuickDirectory"
-gitSourceBranch = "main" 
+
+gitRepoUrl = "https://github.com/ExCodexStudios/RBX-QuickDirectory"
+gitSourceBranch = "main"
+changelog = true
 
 [docusaurus]
 onBrokenLinks = "throw"
 onBrokenMarkdownLinks = "warn"
+
+organizationName = "ExCodexStudios"
+projectName = "RBX-QuickDirectory"
+url = "https://excodexstudios.github.io"
+baseUrl = "/RBX-QuickDirectory"
 
 [footer]
 style = "dark"
